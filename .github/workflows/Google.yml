@@ -2,7 +2,7 @@ name: Build Modern Music Player APK
 
 on: push: branches: - main workflow_dispatch:
 
-jobs: build: name: Build APK runs-on: ubuntu-latest
+jobs: build: name: sametcan88.modernmusicplayer Build APK runs-on: ubuntu-latest
 
 steps:
   - name: Checkout repository

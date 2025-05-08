@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+##############################################################################
+## Gradle start script for UN*X
+##############################################################################
+
+# Set default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
+DEFAULT_JVM_OPTS=""
+# (örnek içerik - gerçek projede Gradle tarafından oluşturulur)
